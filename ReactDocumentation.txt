@@ -5,3 +5,4 @@ run locally: npm run dev
 install react-router-dom: npm intall react-router-dom
 import react-router-dom: import { useRoutes, BrowserRouter } from 'react-router-dom' in main page
 react-router-dom is to better use the connection between pages
+create navbar with NavLink from React Router: https://reactrouter.com/en/main/components/nav-link
